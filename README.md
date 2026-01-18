@@ -57,7 +57,7 @@ A comprehensive exam management and AI-powered correction system built with Java
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-examino-system.git
+git clone https://github.com/Salanimadhuri/ai-examino-system.git
 cd ai-examino-system
 ```
 
